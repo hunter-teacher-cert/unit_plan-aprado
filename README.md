@@ -31,23 +31,68 @@ Those are the main ones but also a bit from Digital Citizenship and Career Paths
 ---
 
 ### Tools Used
+App Lab, from studio code.  
+https://studio.code.org/projects/applab/ 
+
+p5 web editor
+https://editor.p5js.org/
+
+google-classroom
+
+google-slides
+
+https://www.kaggle.com/
+
+importing pandas
+https://www.w3schools.com/datascience/
+
+ebook on general javascript
+https://eloquentjavascript.net/
+
+p5 documentation
+https://p5js.org/reference/ 
+
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+https://www.kaggle.com/
 
+importing pandas
+https://www.w3schools.com/datascience/
+
+ebook on general javascript
+https://eloquentjavascript.net/
+
+p5 documentation
+https://p5js.org/reference/ 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 3 Weeks
 
-(list each lesson with main topic(s))
+1) Intro to data science, single variable data sets (min,max, mean, median,...)
+2) Importing and cleaning data
+3) 2 Column Data (bivariate)
+4) Filtering Data
+5) Multivariable datasets 
+6) Creating Circle and Bar Graphs (p5)
+7) Creating Line Graphs and Scatterplots (p5)
+8) Analyzing Results and Conclusions (causation vs correlation)
+9-11) Data Science Project.  
+*) Big Data, Biased Data
+*) Maching Learning, AI
+
+
 
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+Formative:
+- Many of the lessons will have starter code examples but then examples students need to 
+Summative
+- Final Data Science Project:  Students will spend 3 days to find a data set, clean, filter, analize, and display their findings.  
 
 ---
