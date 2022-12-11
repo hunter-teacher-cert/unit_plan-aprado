@@ -73,17 +73,19 @@ https://p5js.org/reference/
 ### Lessons
 Total lenght: 3 Weeks
 
-1) Intro to data science, single variable data sets (min,max, mean, median,...)
-2) Importing and cleaning data
-3) 2 Column Data (bivariate)
-4) Filtering Data
-5) Multivariable datasets 
-6) Creating Circle and Bar Graphs (p5)
-7) Creating Line Graphs and Scatterplots (p5)
-8) Analyzing Results and Conclusions (causation vs correlation)
-9-11) Data Science Project.  
-*) Big Data, Biased Data
-*) Maching Learning, AI
+1. Intro to Data Science + importing data into p5.
+2. Creating functions with univariate data
+* Cleaning and filtering data sets
+3. Bar Graph (map () )
+4. Circle Graph 
+5. Bivariate Data + Line Graph 
+6. Scatter Plot
+7. Linear regression (causation v. correlation
+8. Analyzing results and making conclusions
+* Big Data, Machine Learning 
+9. Concerns about bias
+10-12. Data Science group projects
+
 
 
 

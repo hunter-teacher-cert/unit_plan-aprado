@@ -1,0 +1,51 @@
+state.name,state.region,Population,Income,Life.Exp,Murder,HS.Grad,Area
+Alabama,South,3615,3624,69.05,15.1,41.3,50708
+Alaska,West,365,6315,69.31,11.3,66.7,566432
+Arizona,West,2212,4530,70.55,7.8,58.1,113417
+Arkansas,South,2110,3378,70.66,10.1,39.9,51945
+California,West,21198,5114,71.71,10.3,62.6,156361
+Colorado,West,2541,4884,72.06,6.8,63.9,103766
+Connecticut,Northeast,3100,5348,72.48,3.1,56,4862
+Delaware,South,579,4809,70.06,6.2,54.6,1982
+Florida,South,8277,4815,70.66,10.7,52.6,54090
+Georgia,South,4931,4091,68.54,13.9,40.6,58073
+Hawaii,West,868,4963,73.6,6.2,61.9,6425
+Idaho,West,813,4119,71.87,5.3,59.5,82677
+Illinois,North Central,11197,5107,70.14,10.3,52.6,55748
+Indiana,North Central,5313,4458,70.88,7.1,52.9,36097
+Iowa,North Central,2861,4628,72.56,2.3,59,55941
+Kansas,North Central,2280,4669,72.58,4.5,59.9,81787
+Kentucky,South,3387,3712,70.1,10.6,38.5,39650
+Louisiana,South,3806,3545,68.76,13.2,42.2,44930
+Maine,Northeast,1058,3694,70.39,2.7,54.7,30920
+Maryland,South,4122,5299,70.22,8.5,52.3,9891
+Massachusetts,Northeast,5814,4755,71.83,3.3,58.5,7826
+Michigan,North Central,9111,4751,70.63,11.1,52.8,56817
+Minnesota,North Central,3921,4675,72.96,2.3,57.6,79289
+Mississippi,South,2341,3098,68.09,12.5,41,47296
+Missouri,North Central,4767,4254,70.69,9.3,48.8,68995
+Montana,West,746,4347,70.56,5,59.2,145587
+Nebraska,North Central,1544,4508,72.6,2.9,59.3,76483
+Nevada,West,590,5149,69.03,11.5,65.2,109889
+New Hampshire,Northeast,812,4281,71.23,3.3,57.6,9027
+New Jersey,Northeast,7333,5237,70.93,5.2,52.5,7521
+New Mexico,West,1144,3601,70.32,9.7,55.2,121412
+New York,Northeast,18076,4903,70.55,10.9,52.7,47831
+North Carolina,South,5441,3875,69.21,11.1,38.5,48798
+North Dakota,North Central,637,5087,72.78,1.4,50.3,69273
+Ohio,North Central,10735,4561,70.82,7.4,53.2,40975
+Oklahoma,South,2715,3983,71.42,6.4,51.6,68782
+Oregon,West,2284,4660,72.13,4.2,60,96184
+Pennsylvania,Northeast,11860,4449,70.43,6.1,50.2,44966
+Rhode Island,Northeast,931,4558,71.9,2.4,46.4,1049
+South Carolina,South,2816,3635,67.96,11.6,37.8,30225
+South Dakota,North Central,681,4167,72.08,1.7,53.3,75955
+Tennessee,South,4173,3821,70.11,11,41.8,41328
+Texas,South,12237,4188,70.9,12.2,47.4,262134
+Utah,West,1203,4022,72.9,4.5,67.3,82096
+Vermont,Northeast,472,3907,71.64,5.5,57.1,9267
+Virginia,South,4981,4701,70.08,9.5,47.8,39780
+Washington,West,3559,4864,71.72,4.3,63.5,66570
+West Virginia,South,1799,3617,69.48,6.7,41.6,24070
+Wisconsin,North Central,4589,4468,72.48,3,54.5,54464
+Wyoming,West,376,4566,70.29,6.9,62.9,97203
