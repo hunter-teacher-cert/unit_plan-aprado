@@ -12,7 +12,8 @@
 - p5 final: https://editor.p5js.org/ajprado@gmail.com/sketches/zZ1_I8u1c
 - p5 starter: https://editor.p5js.org/ajprado@gmail.com/sketches/zZ1_I8u1c
 - spreadsheet: 
-https://docs.google.com/spreadsheets/d/1B7MrtcbX0nAKOr7qV9T01kbhsAS3lhit8viHIMl_b2Y/edit#gid=0 
+https://docs.google.com/spreadsheets/d/1B7MrtcbX0nAKOr7qV9T01kbhsAS3lhit8viHIMl_b2Y/edit#gid=0
+-slide deck: https://docs.google.com/presentation/d/1jgoHkset1phN-2dC7OFSG9Ba1CX5tDnvw7Cj5d5s8is/edit#slide=id.g1b9de93d900_0_72
 ### Activities
 - Go over the basic map() function properties as a whole class.  Explain how it can be used to change the scale while keeping it proportional.
 - Have students work in pairs to explore just the map function examples (see slides).  Go over what they noticed and what questions and concerns they still have.
