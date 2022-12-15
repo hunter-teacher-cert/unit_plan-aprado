@@ -1,5 +1,5 @@
-# Lesson 8
-## 
+# Lesson 9
+## Concerns of Errors/Bias
 
 ### Objective
 - 
