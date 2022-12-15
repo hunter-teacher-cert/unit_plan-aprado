@@ -1,5 +1,5 @@
 # Lesson 8
-## 
+## Analyzing Results
 
 ### Objective
 - 
@@ -7,11 +7,11 @@
 ### Standards
 
 ### Resources
-- p5 starter code: 
-- p5 final code: 
-- data spreadsheet: 
-- slide deck: 
+- spurious correlations: http://www.tylervigen.com/spurious-correlations
+- 
 ### Activity
+- video jigsaw
+- spurious correlations
 - 
 ### Assessment
 - As groups are working check in with them to make sure they are on the right track and both group members are involved.  
