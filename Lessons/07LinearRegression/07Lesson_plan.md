@@ -1,18 +1,18 @@
 # Lesson 6
-## Scatter Plot
+## 
 
 ### Objective
-- Look at larger data sets with several related varaibles.
-- Create scatter plots for comparing to of those data sets at a time. 
+- Use map to convert percentages to angles in radians.
+- Create a circle graph using the arc() function.
 - Lable and title the circle graph. 
 
 ### Standards
 9-12.CT.3 Refine and visualize complex data sets to tell different stories with the same data set.
 ### Resources
 - p5 starter code: 
-- p5 final code: https://editor.p5js.org/ajprado@gmail.com/sketches/_FUQbHlCS 
-- data spreadsheet: https://docs.google.com/spreadsheets/d/1GPfEfD2wTIQRWC3KlZ6bANyxyG0SvYcpz1sTkO89rbI/edit#gid=1468784988
-- slide deck: https://docs.google.com/presentation/d/16DpTZY6-fzuXGHZ9ddb1jMyLORmtSDr_Hb2-hsYRjeo/edit#slide=id.p 
+- p5 final code: 
+- data spreadsheet: 
+- slide deck: 
 ### Activity
 - 
 ### Assessment
