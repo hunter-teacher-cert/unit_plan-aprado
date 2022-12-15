@@ -1,11 +1,10 @@
-# Lesson 7
-## Linear Regression
+# Lesson 8
+## 
 
 ### Objective
-- Understand what is meant by a linear regression model.
-- What does the equation (slope,intercept) of the line mean?
-- What is meant by posiitive or negative correlation.
-- What is meant by strong or weak correlation.  
+- Use map to convert percentages to angles in radians.
+- Create a circle graph using the arc() function.
+- Lable and title the circle graph. 
 
 ### Standards
 9-12.CT.3 Refine and visualize complex data sets to tell different stories with the same data set.
