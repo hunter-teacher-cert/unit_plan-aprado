@@ -31,5 +31,7 @@ Data Set Options:
 
 ### Assignement 
 - Students are put into groups of 2-3 for the 3 day project.
-- Students are to a
+- Go over the full set of instructions with the class and answer any questions they may have
+- See project sheet for the full details.
 ### Assessment
+- See the rubric for the full assessment detials. 
