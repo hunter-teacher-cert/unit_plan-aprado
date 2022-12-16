@@ -2,7 +2,11 @@
 ## Data Science Group Projects
 
 ### Objective
-
+- Students can find data sets.
+- Clean and filter the data sets.
+- Create visualizations based ont he data.
+- Analyze  the data and make conclusions.
+  
 ### Standards
 9-12.CT.2 Collect and evaluate data from multiple sources for use in a computational artifact.
 
@@ -26,5 +30,6 @@ Data Set Options:
 
 
 ### Assignement 
-
+- Students are put into groups of 2-3 for the 3 day project.
+- Students are to a
 ### Assessment
